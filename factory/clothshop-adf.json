@@ -1,0 +1,9 @@
+{
+	"name": "clothshop-adf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "11d5aa6b-7c3a-4ada-a727-f952944f013d",
+		"tenantId": "55e48761-09f1-48a6-8b79-23cb09e2d4ec"
+	}
+}
